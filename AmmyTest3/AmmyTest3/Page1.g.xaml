@@ -1,0 +1,3 @@
+<ContentPage x:Class="AmmyTest3.Page1" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ns0="clr-namespace:AmmySidekick;assembly=AmmySidekick" ns0:Ammy.Register="/AmmyTest3;component/Page1.g.xaml">
+  <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">Howdy!</Label>
+</ContentPage>

@@ -1,0 +1,3 @@
+﻿ContentPage "AmmyTest3.Page1" {
+	Label { "Howdy!", VerticalOptions: CenterAndExpand, HorizontalOptions: CenterAndExpand }
+}
