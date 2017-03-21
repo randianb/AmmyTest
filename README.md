@@ -1,6 +1,6 @@
 # AmmyTest
 
-Tested with Ammy 1.2.31 and 1.2.21
+Tested with Ammy/Ammy.XamarinForms 1.2.31 and 1.2.21
 
 Microsoft Visual Studio Community 2017
 Version 15.0.26228.9 D15RTWSVC
